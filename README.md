@@ -4,20 +4,20 @@ To use:
 
 Open terminal:
 ```bash
-  cd "into your coding area"
-  
-  react-native init albums --version=0.57.0
+cd "into your coding area"
 
-  cd albums
-   
-  npm install --save react@16.5.1 axios
+react-native init albums --version=0.57.0
+
+cd albums
+
+npm install --save react@16.5.1 axios
 ```  
 Then downlaod repo to ur computer.
 replace index.js to projects and move src folder inside albums.
 
   First open emulator or connect a real device to ur computer then:
   ```bash
-    react-native run-android  
+  react-native run-android  
   ```
   You will see something like this:
   
