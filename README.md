@@ -19,5 +19,7 @@ replace index.js to projects and move src folder inside albums.
   ```bash
     react-native run-android  
   ```
-
+  You will see something like this:
+  
+  ![Albums](https://raw.githubusercontent.com/halilcakarr/albums/master/image.png?token=ARNiQqOttXPHxlHI9ejocgOzT9mLoDAzks5brXRhwA%3D%3D)
 
