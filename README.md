@@ -15,3 +15,7 @@ Open terminal:
 Then downlaod repo to ur computer.
 replace index.js to projects and move src folder inside albums.
 
+  then:
+  
+  react-native run-android
+
